@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTaskAndroid</string>
+    <string name="admob_app_id">ca-app-pub-5209137209576598~6815779156</string>
+    <string name="interstitial_ad_id">ca-app-pub-5209137209576598/5199552951</string>
+</resources>
